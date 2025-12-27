@@ -200,21 +200,21 @@ Our contribution is a practical, open-source implementation of this attack vecto
 
 ### References
 
-[1]: https://arxiv.org/abs/2405.07145 "Hu, Y., et al. (2024). Stable signature is unstable: Removing image watermark from diffusion models. arXiv preprint arXiv:2405.07145."
+1. Hu, Y., et al. (2024). *Stable signature is unstable: Removing image watermark from diffusion models*. arXiv preprint arXiv:2405.07145. https://arxiv.org/abs/2405.07145
 
-[2]: https://deepmind.google/models/synthid/ "Google DeepMind. (2023). SynthID. Retrieved from"
+2. Google DeepMind. (2023). *SynthID*. https://deepmind.google/models/synthid/
 
-[3]: https://github.com/ltdrdata/ComfyUI-Impact-Pack "ltdrdata. (n.d. ). ComfyUI Impact Pack. GitHub. Retrieved from"
+3. ltdrdata. (n.d.). *ComfyUI Impact Pack*. GitHub. https://github.com/ltdrdata/ComfyUI-Impact-Pack
 
-[4]: https://github.com/wildminder/ComfyUI-DyPE "wildminder. (n.d. ). ComfyUI-dype. GitHub. Retrieved from"
+4. wildminder. (n.d.). *ComfyUI-dype*. GitHub. https://github.com/wildminder/ComfyUI-DyPE
 
-[5]: https://github.com/rgthree/rgthree-comfy "rgthree. (n.d. ). rgthree-comfy. GitHub. Retrieved from"
+5. rgthree. (n.d.). *rgthree-comfy*. GitHub. https://github.com/rgthree/rgthree-comfy
 
-[6]: https://github.com/BadCafeCode/masquerade-nodes-comfyui "BadCafeCode. (n.d. ). Masquerade Nodes. GitHub. Retrieved from"
+6. BadCafeCode. (n.d.). *Masquerade Nodes*. GitHub. https://github.com/BadCafeCode/masquerade-nodes-comfyui
 
-[7]: https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch "lquesada. (n.d. ). ComfyUI-Inpaint-CropAndStitch. GitHub. Retrieved from"
+7. lquesada. (n.d.). *ComfyUI-Inpaint-CropAndStitch*. GitHub. https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch
 
-[8]: https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler "numz. (n.d. ). SeedVR2 VideoUpscaler Nodes. GitHub. Retrieved from"
+8. numz. (n.d.). *SeedVR2 VideoUpscaler Nodes*. GitHub. https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler
 
 ## 9. License & Contact
 
@@ -225,5 +225,4 @@ For questions, concerns, or collaboration opportunities, please open an issue in
 ---
 
 **Remember:** The goal of this research is to improve AI safety, not to undermine it. Use these tools responsibly and ethically.
-
 
