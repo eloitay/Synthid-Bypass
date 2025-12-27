@@ -63,7 +63,7 @@ I then took this regenerated image and dramatically increased the exposure, bril
 | :----------------------------------------------------------------: | :----------------------------------------------------------------: |
 | <img src="synthid_analysis/watermark_pattern_01.jpeg" width="400"> | <img src="synthid_analysis/watermark_pattern_02.jpeg" width="400"> |
 
-An interesting observation was that the watermark pattern is not deterministic; regenerating the same prompt results in a different noise pattern each time. This suggested that the watermark is a form of structured noise added late in the generation process.
+An interesting observation was that the watermark pattern is not deterministic; regenerating the same prompt results in a different noise pattern each time. This suggested that the watermark is not predictable for each generation.
 
 ### From Visualization to Bypass
 
